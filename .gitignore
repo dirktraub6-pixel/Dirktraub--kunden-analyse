@@ -1,0 +1,11 @@
+.env
+config/youtube_token.json
+config/youtube_credentials.json
+config/client_secrets.json
+config/posting_queue.json
+config/analytics.json
+generated_scripts/
+__pycache__/
+*.pyc
+*.csv
+assets/

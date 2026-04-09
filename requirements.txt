@@ -1,0 +1,20 @@
+# Core
+python-dotenv>=1.0.0
+
+# YouTube API
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.0.0
+
+# Video Editing
+moviepy>=1.0.3
+Pillow>=10.0.0
+
+# AI Script Generation
+anthropic>=0.30.0
+
+# Speech-to-Text (für Transkription)
+openai-whisper>=20231117
+
+# Scheduling
+schedule>=1.2.0
+requests>=2.31.0
