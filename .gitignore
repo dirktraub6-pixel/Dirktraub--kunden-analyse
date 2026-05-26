@@ -9,3 +9,9 @@ __pycache__/
 *.pyc
 *.csv
 assets/
+
+# Next.js web app
+web/node_modules/
+web/.next/
+web/.env.local
+web/.env*.local
